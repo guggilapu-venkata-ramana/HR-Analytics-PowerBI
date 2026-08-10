@@ -1,0 +1,501 @@
+Employee_ID,Age,Gender,Department,Job_Role,Education,Education_Field,Monthly_Income,Job_Satisfaction,Years_At_Company,Overtime,Job_Level,Joining_Date,Attrition
+EMP1001,59,Male,Research & Development,Manager,PhD,Technical Degree,33770,1,8,Yes,4,2023-11-10,Yes
+EMP1002,49,Female,IT,Financial Analyst,Bachelor's,Marketing,36093,1,8,No,3,2022-09-30,Yes
+EMP1003,35,Female,Sales,IT Specialist,Master's,Human Resources,156265,3,12,No,3,2021-07-09,No
+EMP1004,28,Male,Sales,Data Analyst,PhD,Technical Degree,125311,2,5,No,4,2024-11-27,No
+EMP1005,41,Female,Research & Development,Data Analyst,Bachelor's,Finance,42569,3,5,Yes,3,2017-03-08,Yes
+EMP1006,59,Male,Research & Development,Research Scientist,Bachelor's,Life Sciences,36190,4,19,Yes,1,2015-12-14,No
+EMP1007,39,Female,Finance,HR Specialist,Bachelor's,Life Sciences,87824,1,19,No,3,2015-09-30,No
+EMP1008,43,Male,Sales,Research Scientist,Master's,Medical,67070,2,20,No,3,2023-03-30,No
+EMP1009,31,Male,Finance,IT Specialist,Master's,Technical Degree,65197,4,2,No,4,2016-12-20,No
+EMP1010,31,Male,Sales,Financial Analyst,Master's,Life Sciences,27261,4,16,No,4,2019-11-09,No
+EMP1011,44,Female,Finance,Financial Analyst,Bachelor's,Marketing,162788,4,16,No,3,2024-07-17,No
+EMP1012,56,Male,Sales,HR Specialist,Master's,Technical Degree,111795,3,11,Yes,2,2021-12-22,No
+EMP1013,60,Female,Sales,Data Analyst,PhD,Marketing,53933,1,15,No,4,2023-08-31,Yes
+EMP1014,44,Male,Human Resources,Research Scientist,Master's,Marketing,160450,4,14,Yes,5,2016-11-15,No
+EMP1015,23,Male,IT,Financial Analyst,PhD,Life Sciences,65583,1,12,No,5,2020-10-27,No
+EMP1016,42,Female,IT,IT Specialist,Master's,Technical Degree,137082,3,0,No,1,2016-09-13,No
+EMP1017,22,Male,Research & Development,Manager,Master's,Finance,110371,4,16,No,3,2020-08-01,No
+EMP1018,44,Male,IT,Sales Executive,Master's,Human Resources,136032,3,2,Yes,2,2024-01-02,No
+EMP1019,50,Female,Sales,Sales Executive,Bachelor's,Life Sciences,67604,3,14,Yes,1,2017-08-04,No
+EMP1020,58,Male,IT,Sales Executive,Bachelor's,Life Sciences,120074,1,3,No,3,2021-08-02,No
+EMP1021,22,Male,Research & Development,Data Analyst,Master's,Finance,98869,4,3,Yes,4,2022-04-19,No
+EMP1022,41,Male,Human Resources,Research Scientist,Bachelor's,Technical Degree,30410,3,17,No,5,2016-05-21,No
+EMP1023,53,Male,Finance,HR Specialist,Master's,Technical Degree,108375,4,16,Yes,2,2019-05-02,No
+EMP1024,32,Female,Human Resources,Financial Analyst,PhD,Marketing,121055,1,18,No,5,2023-11-27,No
+EMP1025,42,Female,Research & Development,Manager,Master's,Finance,162868,3,10,No,4,2022-03-08,No
+EMP1026,45,Male,Research & Development,IT Specialist,Bachelor's,Finance,111716,1,19,No,3,2024-01-31,No
+EMP1027,47,Female,Finance,Manager,Bachelor's,Technical Degree,79245,4,2,No,4,2015-09-01,No
+EMP1028,48,Male,Sales,IT Specialist,Bachelor's,Marketing,68056,4,7,Yes,4,2016-05-20,No
+EMP1029,36,Female,IT,Data Analyst,Master's,Life Sciences,173781,1,13,Yes,5,2016-02-26,Yes
+EMP1030,35,Male,Human Resources,Research Scientist,Master's,Medical,83557,2,0,No,2,2024-04-14,No
+EMP1031,23,Male,Sales,Sales Executive,PhD,Human Resources,42543,3,13,No,4,2023-08-25,No
+EMP1032,57,Male,Human Resources,Research Scientist,Bachelor's,Life Sciences,121038,4,1,No,5,2021-03-14,No
+EMP1033,27,Male,Research & Development,Data Analyst,PhD,Technical Degree,172796,4,3,Yes,2,2024-10-01,No
+EMP1034,41,Male,Human Resources,HR Specialist,Master's,Human Resources,28828,3,18,Yes,3,2024-10-30,No
+EMP1035,29,Male,Human Resources,HR Specialist,Bachelor's,Medical,141656,1,5,Yes,3,2024-03-03,No
+EMP1036,59,Female,Sales,Data Analyst,Master's,Medical,42087,1,0,No,1,2020-02-16,Yes
+EMP1037,38,Male,Research & Development,IT Specialist,Bachelor's,Marketing,168677,1,16,Yes,5,2025-05-21,No
+EMP1038,24,Female,IT,Financial Analyst,Bachelor's,Human Resources,56337,2,7,No,2,2023-05-15,No
+EMP1039,45,Male,Research & Development,Financial Analyst,Master's,Marketing,161554,2,18,Yes,4,2018-04-07,No
+EMP1040,34,Female,Research & Development,IT Specialist,Bachelor's,Life Sciences,90333,4,20,No,3,2015-11-26,No
+EMP1041,29,Female,Research & Development,HR Specialist,Master's,Finance,161535,1,0,No,2,2016-10-11,No
+EMP1042,46,Female,Research & Development,HR Specialist,Master's,Finance,95448,3,4,No,5,2019-01-04,No
+EMP1043,22,Male,Research & Development,HR Specialist,Master's,Finance,29648,4,15,No,1,2016-01-26,No
+EMP1044,40,Male,Research & Development,Research Scientist,Bachelor's,Human Resources,155576,3,5,No,3,2019-02-28,No
+EMP1045,48,Female,Sales,HR Specialist,Master's,Finance,58623,4,7,No,2,2016-01-16,No
+EMP1046,27,Male,Human Resources,Manager,Master's,Life Sciences,60634,2,12,No,2,2024-03-31,No
+EMP1047,28,Female,Sales,Sales Executive,Master's,Marketing,139598,4,15,No,2,2017-01-11,No
+EMP1048,55,Male,Sales,HR Specialist,Bachelor's,Human Resources,74334,2,2,No,5,2020-07-03,No
+EMP1049,34,Female,Sales,IT Specialist,Bachelor's,Marketing,93648,4,18,Yes,5,2017-03-30,No
+EMP1050,37,Female,Sales,Sales Executive,Master's,Human Resources,47054,1,11,No,5,2016-11-03,No
+EMP1051,56,Male,Research & Development,Research Scientist,Bachelor's,Marketing,95028,3,15,Yes,4,2022-01-04,Yes
+EMP1052,60,Female,Research & Development,IT Specialist,Master's,Medical,47207,1,10,Yes,2,2019-11-07,No
+EMP1053,24,Male,Finance,Sales Executive,Master's,Marketing,106554,4,9,No,3,2023-03-16,No
+EMP1054,22,Female,Sales,IT Specialist,Master's,Finance,177458,4,19,No,5,2018-04-26,No
+EMP1055,26,Female,Finance,Research Scientist,Master's,Medical,108276,4,3,No,5,2017-07-18,No
+EMP1056,24,Male,Human Resources,Manager,PhD,Marketing,77781,2,11,No,2,2019-03-20,No
+EMP1057,49,Male,Research & Development,Research Scientist,Master's,Human Resources,86035,3,1,No,5,2017-07-01,Yes
+EMP1058,38,Male,IT,Research Scientist,PhD,Human Resources,33210,3,18,No,4,2016-10-05,No
+EMP1059,46,Female,IT,IT Specialist,Master's,Human Resources,69363,4,4,Yes,4,2016-03-02,Yes
+EMP1060,54,Male,Sales,Data Analyst,Bachelor's,Technical Degree,103279,4,7,Yes,5,2016-05-16,No
+EMP1061,30,Female,Research & Development,Financial Analyst,Bachelor's,Life Sciences,178504,2,6,No,2,2016-12-30,Yes
+EMP1062,56,Female,IT,HR Specialist,Master's,Human Resources,159393,1,13,Yes,2,2018-07-07,Yes
+EMP1063,34,Male,Human Resources,HR Specialist,Bachelor's,Medical,106348,1,2,Yes,2,2024-10-24,No
+EMP1064,51,Male,Sales,Manager,Bachelor's,Human Resources,138816,3,17,No,1,2020-10-19,No
+EMP1065,35,Female,Finance,Manager,Bachelor's,Technical Degree,148053,2,15,No,5,2021-11-30,No
+EMP1066,28,Female,Finance,HR Specialist,Master's,Finance,91262,4,18,No,2,2023-11-24,Yes
+EMP1067,34,Male,Human Resources,Financial Analyst,Master's,Medical,159832,3,18,No,4,2016-04-01,No
+EMP1068,43,Male,Finance,HR Specialist,Master's,Technical Degree,178262,2,17,No,3,2021-02-14,No
+EMP1069,60,Male,Finance,Data Analyst,Master's,Finance,92411,1,19,Yes,3,2015-10-18,No
+EMP1070,41,Male,Sales,Financial Analyst,Master's,Medical,48377,2,15,Yes,2,2024-10-31,No
+EMP1071,36,Male,Sales,Manager,Bachelor's,Marketing,63211,1,7,No,3,2025-07-03,No
+EMP1072,38,Female,Research & Development,Sales Executive,PhD,Life Sciences,28744,2,0,No,3,2017-07-08,Yes
+EMP1073,44,Female,IT,IT Specialist,Bachelor's,Life Sciences,49995,3,16,No,1,2021-05-28,No
+EMP1074,46,Female,Research & Development,Data Analyst,PhD,Technical Degree,173049,1,11,Yes,4,2020-05-23,No
+EMP1075,45,Female,Research & Development,Data Analyst,Master's,Finance,59542,3,20,No,4,2017-01-25,No
+EMP1076,49,Male,Human Resources,Manager,Bachelor's,Life Sciences,35651,3,10,No,1,2019-07-17,No
+EMP1077,35,Male,Research & Development,Manager,Bachelor's,Finance,124239,1,4,No,1,2020-01-09,No
+EMP1078,21,Male,Human Resources,Research Scientist,Bachelor's,Finance,103931,1,11,No,3,2018-07-30,No
+EMP1079,45,Female,IT,Data Analyst,Bachelor's,Technical Degree,127112,4,16,No,5,2019-04-17,Yes
+EMP1080,27,Female,Research & Development,Research Scientist,Bachelor's,Technical Degree,41715,4,5,No,3,2020-02-13,No
+EMP1081,29,Male,Research & Development,Research Scientist,Master's,Technical Degree,175158,4,0,No,1,2016-01-12,No
+EMP1082,44,Male,Research & Development,IT Specialist,Master's,Life Sciences,170448,3,4,No,4,2025-03-18,No
+EMP1083,21,Female,Research & Development,Research Scientist,Master's,Technical Degree,86350,3,13,No,3,2018-03-25,No
+EMP1084,28,Female,Research & Development,Financial Analyst,PhD,Life Sciences,96425,4,4,No,5,2016-05-22,No
+EMP1085,44,Male,Research & Development,HR Specialist,Master's,Technical Degree,111120,3,0,No,3,2018-12-07,No
+EMP1086,31,Male,Research & Development,Sales Executive,Master's,Human Resources,139889,3,17,No,2,2022-01-19,No
+EMP1087,37,Female,Sales,Manager,Bachelor's,Finance,166130,1,15,Yes,3,2024-05-19,Yes
+EMP1088,28,Male,Sales,Financial Analyst,Master's,Technical Degree,99637,1,8,No,1,2016-07-12,No
+EMP1089,55,Male,Research & Development,Sales Executive,Bachelor's,Medical,95194,3,18,No,4,2025-07-01,No
+EMP1090,55,Male,Research & Development,Data Analyst,PhD,Finance,101917,4,4,No,4,2023-12-03,No
+EMP1091,53,Female,Research & Development,Data Analyst,Master's,Finance,89200,2,1,No,1,2023-06-30,Yes
+EMP1092,25,Female,Human Resources,Data Analyst,Master's,Technical Degree,130848,4,14,No,2,2021-04-26,No
+EMP1093,59,Female,Human Resources,Financial Analyst,Bachelor's,Marketing,131022,2,6,Yes,1,2016-02-25,No
+EMP1094,48,Female,Sales,Financial Analyst,Master's,Technical Degree,173226,4,3,No,3,2019-04-02,No
+EMP1095,27,Female,IT,Manager,Master's,Finance,175611,1,0,No,1,2024-12-01,No
+EMP1096,29,Female,Research & Development,HR Specialist,Bachelor's,Medical,85058,3,12,No,1,2015-10-31,No
+EMP1097,28,Female,Human Resources,Research Scientist,Bachelor's,Finance,87068,3,19,No,2,2017-07-30,No
+EMP1098,32,Male,Research & Development,Data Analyst,Master's,Medical,124932,1,6,No,3,2025-12-29,No
+EMP1099,54,Male,IT,IT Specialist,Bachelor's,Life Sciences,162103,2,14,No,5,2023-07-08,No
+EMP1100,53,Male,Human Resources,HR Specialist,PhD,Human Resources,47785,2,13,Yes,5,2024-09-30,No
+EMP1101,43,Male,Human Resources,IT Specialist,Bachelor's,Finance,119475,2,18,No,4,2025-03-04,No
+EMP1102,44,Male,Finance,Manager,Bachelor's,Technical Degree,27282,1,19,No,1,2022-02-02,Yes
+EMP1103,57,Male,Sales,Manager,Master's,Life Sciences,92534,2,17,No,4,2025-03-30,No
+EMP1104,55,Male,Sales,Manager,Bachelor's,Human Resources,99964,1,9,No,2,2018-07-25,No
+EMP1105,60,Female,Human Resources,Sales Executive,Master's,Technical Degree,144006,4,8,No,5,2023-12-19,No
+EMP1106,42,Female,Research & Development,IT Specialist,Bachelor's,Marketing,75583,4,7,Yes,1,2017-12-25,No
+EMP1107,47,Male,Human Resources,HR Specialist,Bachelor's,Technical Degree,63392,1,9,No,2,2020-11-25,Yes
+EMP1108,55,Male,Sales,HR Specialist,Master's,Medical,32461,3,16,No,2,2021-05-04,No
+EMP1109,21,Female,Research & Development,Financial Analyst,Master's,Medical,125123,4,1,No,1,2021-03-19,No
+EMP1110,55,Male,Research & Development,Financial Analyst,Master's,Marketing,35516,2,5,No,2,2020-01-02,No
+EMP1111,57,Male,Research & Development,Data Analyst,Master's,Life Sciences,173586,1,4,Yes,1,2019-04-03,No
+EMP1112,34,Female,Research & Development,Financial Analyst,Master's,Human Resources,146251,2,8,Yes,1,2023-08-28,No
+EMP1113,23,Male,Research & Development,Manager,Bachelor's,Technical Degree,87493,2,4,No,3,2016-11-23,No
+EMP1114,21,Female,Research & Development,HR Specialist,Bachelor's,Medical,61027,3,17,No,4,2015-09-12,No
+EMP1115,25,Male,Research & Development,IT Specialist,PhD,Life Sciences,118547,2,19,Yes,2,2019-01-18,No
+EMP1116,46,Female,Research & Development,Manager,Master's,Marketing,125127,3,8,No,2,2021-04-19,No
+EMP1117,34,Female,Finance,Sales Executive,Master's,Finance,173930,4,16,No,3,2015-09-14,No
+EMP1118,59,Female,Sales,Financial Analyst,Bachelor's,Medical,104003,1,16,No,3,2021-08-27,No
+EMP1119,47,Male,Research & Development,Manager,Bachelor's,Marketing,64758,2,11,No,3,2016-03-17,Yes
+EMP1120,29,Female,Research & Development,Manager,Master's,Technical Degree,79312,1,6,Yes,5,2020-02-25,No
+EMP1121,35,Male,Human Resources,Sales Executive,Master's,Human Resources,93670,2,2,Yes,5,2022-03-31,No
+EMP1122,35,Male,Research & Development,Research Scientist,Master's,Medical,107279,1,9,No,5,2018-01-18,No
+EMP1123,46,Male,Finance,HR Specialist,Master's,Medical,40434,2,1,No,1,2025-06-17,No
+EMP1124,33,Male,IT,IT Specialist,Master's,Technical Degree,100769,2,2,No,2,2021-09-03,Yes
+EMP1125,52,Female,Research & Development,Data Analyst,Bachelor's,Finance,91677,2,15,No,4,2016-08-04,No
+EMP1126,59,Female,Sales,Research Scientist,Bachelor's,Life Sciences,108555,2,1,No,1,2023-07-13,Yes
+EMP1127,52,Male,Research & Development,Financial Analyst,Bachelor's,Human Resources,153379,2,9,No,2,2019-10-02,No
+EMP1128,24,Male,Sales,Manager,Bachelor's,Medical,126665,2,5,No,2,2025-03-24,No
+EMP1129,50,Female,Research & Development,Sales Executive,Master's,Human Resources,93803,2,10,No,3,2022-03-30,No
+EMP1130,57,Male,IT,Sales Executive,Bachelor's,Medical,116703,2,6,No,3,2015-01-19,No
+EMP1131,43,Female,Sales,HR Specialist,Master's,Human Resources,46312,2,14,Yes,1,2018-01-29,No
+EMP1132,59,Male,Sales,Research Scientist,Bachelor's,Marketing,142961,1,5,No,3,2025-11-29,No
+EMP1133,35,Male,Sales,Data Analyst,Bachelor's,Medical,65379,3,19,Yes,2,2022-04-08,No
+EMP1134,49,Female,Human Resources,HR Specialist,Bachelor's,Human Resources,42297,2,8,No,3,2025-07-04,No
+EMP1135,56,Male,Research & Development,Manager,Bachelor's,Life Sciences,27011,3,19,No,5,2018-10-12,No
+EMP1136,33,Female,Sales,HR Specialist,Master's,Marketing,145234,2,11,No,3,2019-04-15,No
+EMP1137,52,Male,IT,IT Specialist,Bachelor's,Marketing,69014,2,18,No,2,2025-06-29,No
+EMP1138,27,Male,Finance,Sales Executive,Master's,Life Sciences,167810,1,19,Yes,1,2025-12-23,Yes
+EMP1139,42,Male,Sales,Sales Executive,Bachelor's,Human Resources,119333,4,2,Yes,4,2020-09-11,No
+EMP1140,48,Female,Human Resources,Financial Analyst,Bachelor's,Technical Degree,36120,4,14,No,3,2020-06-16,No
+EMP1141,22,Male,Finance,Financial Analyst,Bachelor's,Life Sciences,164839,1,1,Yes,2,2024-01-14,No
+EMP1142,26,Male,Research & Development,Data Analyst,Master's,Human Resources,47852,3,20,No,4,2019-03-28,No
+EMP1143,48,Male,Sales,Manager,Master's,Life Sciences,104239,4,1,No,4,2025-02-18,No
+EMP1144,48,Male,Sales,IT Specialist,Bachelor's,Life Sciences,157001,1,2,No,5,2017-05-11,No
+EMP1145,40,Female,Sales,Research Scientist,Bachelor's,Medical,116575,1,5,No,4,2015-06-04,No
+EMP1146,50,Female,Finance,HR Specialist,Master's,Human Resources,120040,4,14,Yes,2,2024-07-26,Yes
+EMP1147,31,Male,IT,Data Analyst,Bachelor's,Technical Degree,173510,3,9,No,2,2017-06-23,No
+EMP1148,48,Female,Sales,Manager,Bachelor's,Medical,30744,1,8,No,3,2018-06-23,No
+EMP1149,45,Male,Sales,Financial Analyst,Master's,Life Sciences,163141,2,0,Yes,3,2016-02-09,No
+EMP1150,59,Male,Sales,HR Specialist,Master's,Finance,67359,3,15,No,3,2017-04-23,No
+EMP1151,53,Male,Sales,Financial Analyst,Bachelor's,Life Sciences,175871,3,5,No,4,2019-11-18,No
+EMP1152,21,Female,Finance,HR Specialist,PhD,Life Sciences,123746,4,8,No,4,2019-04-14,No
+EMP1153,47,Female,Research & Development,Research Scientist,Master's,Human Resources,145906,4,3,No,5,2018-03-30,No
+EMP1154,33,Female,Research & Development,Manager,Bachelor's,Human Resources,32597,2,1,Yes,3,2017-01-16,No
+EMP1155,23,Female,Sales,HR Specialist,Master's,Medical,72093,1,3,No,1,2019-09-22,No
+EMP1156,59,Female,Research & Development,IT Specialist,Master's,Technical Degree,139650,4,0,No,5,2023-09-24,No
+EMP1157,26,Female,Research & Development,Data Analyst,Bachelor's,Medical,174765,4,18,No,1,2015-09-28,No
+EMP1158,28,Female,Human Resources,Sales Executive,Bachelor's,Marketing,145956,3,9,No,4,2017-02-08,No
+EMP1159,47,Female,Sales,IT Specialist,Bachelor's,Life Sciences,140598,4,20,No,5,2019-09-12,No
+EMP1160,29,Female,Finance,IT Specialist,Master's,Finance,158241,4,14,Yes,5,2019-02-19,No
+EMP1161,57,Male,Research & Development,Data Analyst,Bachelor's,Life Sciences,178124,4,18,No,2,2025-10-31,No
+EMP1162,53,Female,Sales,Sales Executive,Master's,Life Sciences,33036,4,15,Yes,4,2015-06-21,No
+EMP1163,44,Female,Research & Development,IT Specialist,Master's,Medical,56778,3,20,No,4,2015-10-01,No
+EMP1164,35,Female,Finance,HR Specialist,Bachelor's,Finance,179245,2,3,No,5,2021-04-25,No
+EMP1165,52,Female,IT,HR Specialist,Master's,Finance,162416,2,1,No,4,2018-03-04,No
+EMP1166,52,Female,Research & Development,HR Specialist,Bachelor's,Finance,43800,1,12,No,5,2019-09-03,No
+EMP1167,44,Female,Research & Development,Sales Executive,Master's,Medical,50372,4,0,Yes,2,2025-05-21,No
+EMP1168,32,Female,IT,IT Specialist,Master's,Life Sciences,86516,3,16,No,5,2019-11-07,No
+EMP1169,59,Female,Research & Development,Sales Executive,Bachelor's,Medical,45538,1,12,Yes,4,2016-02-26,Yes
+EMP1170,22,Female,Sales,HR Specialist,Bachelor's,Human Resources,88918,1,3,Yes,4,2018-12-15,No
+EMP1171,23,Female,IT,Data Analyst,Bachelor's,Human Resources,171045,2,6,Yes,5,2018-04-24,No
+EMP1172,57,Female,Sales,IT Specialist,Bachelor's,Medical,96155,3,16,No,5,2025-12-14,No
+EMP1173,37,Male,Research & Development,IT Specialist,Bachelor's,Finance,84500,3,8,Yes,5,2021-08-08,No
+EMP1174,22,Male,Sales,Financial Analyst,Bachelor's,Life Sciences,135659,3,3,Yes,3,2025-01-26,No
+EMP1175,22,Female,Sales,Financial Analyst,PhD,Medical,52716,2,18,Yes,4,2021-08-22,No
+EMP1176,48,Female,Research & Development,Research Scientist,Bachelor's,Medical,159308,2,0,Yes,4,2024-11-03,Yes
+EMP1177,43,Male,Finance,Manager,Bachelor's,Medical,171920,2,9,No,3,2016-08-02,No
+EMP1178,57,Female,Sales,Financial Analyst,Master's,Marketing,27352,2,3,No,5,2017-06-09,No
+EMP1179,52,Male,Sales,Sales Executive,Bachelor's,Human Resources,158004,2,8,No,2,2016-12-22,No
+EMP1180,53,Male,Sales,Financial Analyst,PhD,Finance,101449,4,12,No,5,2023-12-12,No
+EMP1181,21,Male,Research & Development,Research Scientist,Master's,Technical Degree,33556,4,13,Yes,5,2017-05-30,No
+EMP1182,39,Male,IT,IT Specialist,Master's,Finance,111836,3,9,No,3,2018-01-26,Yes
+EMP1183,22,Male,Research & Development,Research Scientist,Bachelor's,Technical Degree,161570,1,5,No,4,2022-04-06,No
+EMP1184,46,Female,Research & Development,IT Specialist,Bachelor's,Marketing,75098,3,15,No,5,2020-06-30,No
+EMP1185,52,Male,Finance,Data Analyst,Bachelor's,Medical,137169,1,5,Yes,4,2020-08-31,Yes
+EMP1186,26,Female,Research & Development,Data Analyst,Master's,Marketing,165641,2,16,Yes,1,2019-01-13,No
+EMP1187,52,Female,Sales,IT Specialist,Bachelor's,Marketing,151060,1,9,Yes,4,2023-11-18,No
+EMP1188,24,Male,Sales,Manager,Bachelor's,Life Sciences,155544,3,17,No,2,2016-01-18,Yes
+EMP1189,31,Male,Research & Development,Financial Analyst,PhD,Human Resources,25340,3,17,No,2,2020-12-21,No
+EMP1190,37,Female,Research & Development,Sales Executive,Bachelor's,Technical Degree,107302,1,2,Yes,5,2018-12-20,No
+EMP1191,58,Male,Research & Development,Sales Executive,Bachelor's,Medical,25138,4,19,Yes,4,2023-06-24,Yes
+EMP1192,44,Male,Finance,HR Specialist,Bachelor's,Technical Degree,156430,2,20,No,5,2021-12-25,No
+EMP1193,25,Female,Research & Development,IT Specialist,PhD,Finance,144619,2,14,Yes,3,2023-12-01,No
+EMP1194,54,Female,Research & Development,Sales Executive,Bachelor's,Technical Degree,110376,3,14,No,2,2023-08-23,No
+EMP1195,26,Male,Research & Development,Manager,Master's,Finance,124931,4,3,No,5,2019-05-10,No
+EMP1196,42,Female,Research & Development,IT Specialist,Master's,Human Resources,106532,1,8,Yes,3,2019-11-22,No
+EMP1197,31,Male,Finance,Manager,Bachelor's,Finance,80778,2,18,Yes,5,2015-05-24,No
+EMP1198,36,Male,Research & Development,Sales Executive,Master's,Technical Degree,62772,4,16,No,4,2020-03-01,No
+EMP1199,53,Male,Sales,Sales Executive,Bachelor's,Technical Degree,83478,2,10,No,4,2025-11-25,No
+EMP1200,29,Female,Human Resources,HR Specialist,Bachelor's,Finance,51762,4,8,No,4,2019-08-30,No
+EMP1201,26,Female,Research & Development,Sales Executive,Master's,Marketing,169355,4,9,No,4,2018-12-06,No
+EMP1202,36,Female,Research & Development,IT Specialist,Master's,Human Resources,80568,3,17,Yes,1,2015-08-12,No
+EMP1203,49,Female,Research & Development,Data Analyst,Master's,Life Sciences,110090,2,19,No,3,2015-08-08,No
+EMP1204,23,Female,Research & Development,IT Specialist,Master's,Medical,45219,1,12,No,3,2015-06-28,No
+EMP1205,40,Male,Human Resources,IT Specialist,Bachelor's,Technical Degree,82169,3,7,Yes,4,2019-07-13,Yes
+EMP1206,56,Male,Sales,HR Specialist,Bachelor's,Medical,99965,3,6,No,1,2016-03-08,No
+EMP1207,39,Male,Research & Development,HR Specialist,Bachelor's,Life Sciences,109754,1,16,Yes,4,2015-09-22,No
+EMP1208,46,Male,Sales,Sales Executive,Bachelor's,Medical,102988,3,20,No,1,2017-08-11,No
+EMP1209,23,Female,Human Resources,Research Scientist,Bachelor's,Life Sciences,175023,4,14,Yes,4,2016-03-04,No
+EMP1210,39,Male,Sales,Research Scientist,Bachelor's,Finance,157379,4,19,No,2,2025-03-22,No
+EMP1211,40,Female,IT,HR Specialist,Bachelor's,Marketing,105388,2,14,No,2,2021-09-29,No
+EMP1212,52,Male,Research & Development,Sales Executive,Bachelor's,Technical Degree,115768,2,0,No,5,2024-08-25,Yes
+EMP1213,27,Female,Finance,Research Scientist,Master's,Life Sciences,60428,1,13,Yes,4,2022-08-06,No
+EMP1214,53,Female,IT,Sales Executive,Master's,Medical,117021,2,4,No,3,2021-02-22,No
+EMP1215,60,Male,Finance,Sales Executive,Bachelor's,Technical Degree,143418,4,10,No,5,2019-04-27,No
+EMP1216,59,Male,Finance,Sales Executive,PhD,Marketing,157212,1,15,No,2,2023-07-22,No
+EMP1217,38,Male,Research & Development,Financial Analyst,Master's,Finance,51421,1,1,No,4,2016-04-24,Yes
+EMP1218,60,Male,Research & Development,IT Specialist,Bachelor's,Technical Degree,26708,2,7,No,5,2024-08-15,No
+EMP1219,21,Female,Sales,Sales Executive,Master's,Life Sciences,159702,4,10,No,4,2018-09-15,No
+EMP1220,31,Male,Sales,Financial Analyst,Master's,Marketing,175667,1,17,No,2,2024-02-05,No
+EMP1221,48,Male,Research & Development,HR Specialist,Master's,Medical,101021,4,2,No,5,2025-08-14,No
+EMP1222,45,Female,Research & Development,Research Scientist,Bachelor's,Marketing,69789,4,0,No,2,2017-06-08,No
+EMP1223,43,Male,Research & Development,IT Specialist,Master's,Marketing,51086,4,10,No,1,2025-07-21,No
+EMP1224,51,Male,Research & Development,Data Analyst,Bachelor's,Human Resources,41859,2,15,No,2,2017-07-13,No
+EMP1225,50,Male,IT,Research Scientist,Master's,Marketing,32684,3,17,No,4,2020-12-10,No
+EMP1226,55,Male,Research & Development,IT Specialist,Master's,Marketing,116088,3,15,No,3,2020-03-17,No
+EMP1227,27,Male,Human Resources,Data Analyst,Master's,Technical Degree,157279,1,9,Yes,2,2018-11-11,No
+EMP1228,36,Female,Finance,Research Scientist,Master's,Medical,71099,4,17,No,3,2018-09-24,No
+EMP1229,46,Male,IT,IT Specialist,Master's,Technical Degree,91093,2,5,No,1,2017-02-16,No
+EMP1230,22,Male,Research & Development,Research Scientist,Bachelor's,Technical Degree,73651,4,18,No,5,2021-07-23,No
+EMP1231,21,Male,Finance,Research Scientist,Bachelor's,Life Sciences,38893,4,3,No,5,2015-01-29,No
+EMP1232,32,Male,IT,Data Analyst,Master's,Technical Degree,91418,2,12,No,3,2023-04-11,No
+EMP1233,25,Male,IT,Research Scientist,Bachelor's,Human Resources,150074,3,13,No,5,2015-02-04,No
+EMP1234,57,Female,Sales,Research Scientist,Bachelor's,Human Resources,128065,4,2,No,2,2024-10-29,No
+EMP1235,52,Male,Research & Development,Data Analyst,Bachelor's,Life Sciences,155351,4,9,No,3,2018-11-20,No
+EMP1236,29,Female,Research & Development,HR Specialist,Bachelor's,Finance,63635,3,5,No,4,2022-04-24,No
+EMP1237,55,Female,Sales,Sales Executive,PhD,Medical,120071,2,0,No,2,2024-03-19,No
+EMP1238,39,Male,Research & Development,Manager,Master's,Medical,103518,1,13,No,2,2016-08-11,No
+EMP1239,36,Male,Human Resources,Financial Analyst,PhD,Technical Degree,131233,3,7,Yes,2,2024-05-13,No
+EMP1240,23,Male,Finance,Manager,Master's,Technical Degree,128651,1,18,Yes,4,2023-10-24,No
+EMP1241,40,Male,Sales,Manager,Bachelor's,Finance,97805,1,13,No,1,2023-08-05,Yes
+EMP1242,44,Female,IT,IT Specialist,Bachelor's,Technical Degree,147813,3,9,Yes,5,2017-06-22,No
+EMP1243,53,Male,Research & Development,Sales Executive,Master's,Medical,104063,4,16,No,3,2022-01-11,No
+EMP1244,44,Male,Human Resources,IT Specialist,Bachelor's,Marketing,27454,1,8,No,1,2020-12-09,No
+EMP1245,31,Male,IT,Sales Executive,PhD,Human Resources,45878,1,5,No,3,2015-12-06,No
+EMP1246,28,Male,Research & Development,Data Analyst,Master's,Marketing,169063,2,10,No,5,2015-06-24,No
+EMP1247,56,Male,Research & Development,Data Analyst,Bachelor's,Marketing,93344,4,6,Yes,4,2020-04-07,No
+EMP1248,58,Male,Finance,Sales Executive,PhD,Medical,129946,1,16,No,2,2019-09-11,No
+EMP1249,60,Female,Research & Development,Research Scientist,Master's,Marketing,61593,2,0,No,2,2016-08-19,Yes
+EMP1250,40,Female,Sales,HR Specialist,Master's,Finance,61304,4,4,No,4,2016-03-26,No
+EMP1251,55,Male,Finance,Research Scientist,Bachelor's,Life Sciences,138613,3,8,Yes,1,2016-07-10,Yes
+EMP1252,45,Male,Research & Development,HR Specialist,Bachelor's,Technical Degree,177155,3,17,No,1,2018-03-05,No
+EMP1253,55,Male,Finance,IT Specialist,Master's,Life Sciences,43354,2,20,Yes,3,2025-10-01,No
+EMP1254,45,Female,Research & Development,HR Specialist,Bachelor's,Human Resources,47190,3,1,Yes,4,2023-06-15,No
+EMP1255,49,Male,Finance,IT Specialist,Bachelor's,Technical Degree,31142,1,10,Yes,1,2018-09-18,No
+EMP1256,38,Female,Sales,Data Analyst,Master's,Marketing,66862,4,5,Yes,4,2023-12-11,No
+EMP1257,38,Male,IT,Manager,Bachelor's,Human Resources,175575,1,7,No,5,2024-10-07,No
+EMP1258,22,Male,Finance,Data Analyst,Master's,Technical Degree,150438,1,3,No,2,2020-08-18,No
+EMP1259,55,Male,Sales,Data Analyst,PhD,Finance,73456,3,17,No,2,2025-09-04,No
+EMP1260,36,Male,Research & Development,Manager,Master's,Finance,125167,1,10,No,2,2021-07-09,No
+EMP1261,56,Female,IT,HR Specialist,Bachelor's,Finance,107035,3,4,No,4,2024-04-27,No
+EMP1262,53,Female,Research & Development,HR Specialist,Master's,Finance,33016,4,14,Yes,4,2017-10-13,No
+EMP1263,24,Male,Sales,IT Specialist,Bachelor's,Marketing,27384,4,17,No,3,2021-07-02,No
+EMP1264,53,Male,Research & Development,Research Scientist,Bachelor's,Life Sciences,171144,1,1,No,2,2020-08-24,No
+EMP1265,34,Female,Research & Development,IT Specialist,Master's,Technical Degree,127239,2,10,No,3,2017-04-18,No
+EMP1266,41,Female,Human Resources,Research Scientist,Bachelor's,Marketing,136431,3,12,Yes,2,2019-06-26,Yes
+EMP1267,40,Female,Human Resources,Data Analyst,Bachelor's,Finance,105018,3,3,No,3,2015-08-14,No
+EMP1268,28,Female,Research & Development,Manager,Master's,Life Sciences,65510,1,6,No,3,2024-07-28,Yes
+EMP1269,27,Male,Sales,Data Analyst,Bachelor's,Human Resources,46826,3,10,No,5,2019-12-19,No
+EMP1270,23,Female,Research & Development,Sales Executive,Bachelor's,Human Resources,93026,3,3,Yes,3,2024-07-11,No
+EMP1271,37,Male,Research & Development,HR Specialist,Bachelor's,Human Resources,146668,2,14,No,4,2020-11-30,No
+EMP1272,53,Female,Sales,Research Scientist,Master's,Finance,49045,2,0,Yes,3,2020-07-13,No
+EMP1273,32,Female,IT,IT Specialist,Master's,Human Resources,115102,1,2,Yes,2,2018-12-22,Yes
+EMP1274,42,Female,Human Resources,Manager,Bachelor's,Medical,76919,2,13,No,3,2020-08-10,No
+EMP1275,42,Female,Human Resources,Research Scientist,Bachelor's,Technical Degree,124441,1,5,Yes,1,2021-05-02,Yes
+EMP1276,50,Female,Finance,IT Specialist,Bachelor's,Technical Degree,161917,4,17,Yes,2,2019-02-23,No
+EMP1277,58,Male,Research & Development,HR Specialist,Bachelor's,Finance,143325,1,0,Yes,1,2018-05-16,No
+EMP1278,58,Male,Finance,Data Analyst,Master's,Medical,44337,4,5,No,2,2019-07-04,No
+EMP1279,28,Female,Research & Development,HR Specialist,Bachelor's,Marketing,178385,1,5,No,4,2019-10-02,No
+EMP1280,47,Female,Sales,Financial Analyst,Bachelor's,Marketing,102949,3,20,No,4,2023-03-19,No
+EMP1281,47,Male,Research & Development,Sales Executive,Master's,Human Resources,25276,2,15,No,4,2024-06-02,No
+EMP1282,54,Female,Research & Development,Financial Analyst,Master's,Life Sciences,76151,4,4,Yes,1,2015-11-02,No
+EMP1283,41,Female,Human Resources,Manager,Master's,Marketing,173683,1,16,No,5,2020-08-21,No
+EMP1284,50,Male,Sales,Research Scientist,Bachelor's,Life Sciences,168016,2,9,No,2,2024-05-09,No
+EMP1285,53,Female,Sales,Manager,Bachelor's,Technical Degree,77887,1,20,Yes,4,2024-09-06,No
+EMP1286,48,Female,Sales,Data Analyst,Bachelor's,Life Sciences,106442,2,17,No,2,2019-09-20,No
+EMP1287,53,Male,Sales,IT Specialist,Bachelor's,Technical Degree,74847,2,6,No,1,2019-08-17,No
+EMP1288,25,Male,Human Resources,HR Specialist,Master's,Medical,83653,1,2,Yes,5,2019-02-26,No
+EMP1289,39,Male,Sales,Financial Analyst,Master's,Medical,81622,4,12,No,1,2018-10-23,No
+EMP1290,24,Female,Research & Development,Financial Analyst,Master's,Finance,52810,4,14,Yes,2,2025-09-22,No
+EMP1291,55,Male,Research & Development,Data Analyst,Master's,Finance,102842,3,19,Yes,5,2023-03-04,No
+EMP1292,37,Male,Research & Development,Financial Analyst,Bachelor's,Human Resources,147225,2,18,No,5,2016-02-24,No
+EMP1293,48,Male,Finance,Data Analyst,Master's,Marketing,35503,3,2,No,1,2023-01-15,No
+EMP1294,50,Male,Research & Development,Manager,Bachelor's,Human Resources,109761,3,3,No,4,2025-07-29,Yes
+EMP1295,49,Male,Finance,HR Specialist,Master's,Technical Degree,151439,1,4,No,2,2021-01-27,No
+EMP1296,26,Male,Research & Development,Research Scientist,Bachelor's,Human Resources,36590,1,0,Yes,3,2015-05-14,Yes
+EMP1297,55,Female,Research & Development,IT Specialist,Bachelor's,Life Sciences,166958,1,3,No,3,2020-07-23,No
+EMP1298,57,Female,IT,Research Scientist,Bachelor's,Technical Degree,168938,2,11,No,1,2023-04-01,No
+EMP1299,44,Male,Sales,Manager,PhD,Finance,91624,1,9,No,2,2018-12-21,No
+EMP1300,49,Male,Sales,IT Specialist,Bachelor's,Medical,165836,1,20,No,2,2023-06-24,No
+EMP1301,51,Male,Finance,Financial Analyst,Bachelor's,Finance,145356,2,19,No,1,2019-04-03,No
+EMP1302,55,Female,Sales,Sales Executive,Bachelor's,Marketing,67727,2,12,No,2,2023-12-06,No
+EMP1303,53,Female,Finance,Manager,Master's,Technical Degree,103471,4,13,No,4,2018-03-10,No
+EMP1304,41,Female,Research & Development,Manager,Master's,Technical Degree,33068,1,4,Yes,1,2024-12-05,No
+EMP1305,52,Female,IT,HR Specialist,Master's,Life Sciences,141923,1,3,Yes,4,2020-02-13,Yes
+EMP1306,43,Female,Human Resources,Research Scientist,Bachelor's,Marketing,163367,1,13,Yes,2,2019-12-25,Yes
+EMP1307,53,Female,Research & Development,Manager,Master's,Medical,36390,4,9,No,1,2022-05-29,No
+EMP1308,23,Female,IT,Manager,Bachelor's,Technical Degree,131752,1,16,No,2,2024-04-09,No
+EMP1309,38,Female,Research & Development,Financial Analyst,Master's,Technical Degree,176203,4,9,No,1,2024-08-16,Yes
+EMP1310,45,Female,IT,Financial Analyst,Master's,Life Sciences,119754,3,6,No,2,2018-09-04,No
+EMP1311,51,Male,Sales,IT Specialist,Bachelor's,Human Resources,100969,4,15,No,4,2019-01-04,No
+EMP1312,23,Male,Research & Development,Data Analyst,Bachelor's,Medical,171110,3,0,No,4,2023-08-30,No
+EMP1313,60,Male,Sales,Data Analyst,Bachelor's,Finance,102064,1,16,Yes,2,2021-02-04,No
+EMP1314,44,Male,Research & Development,Sales Executive,Bachelor's,Marketing,46281,3,20,Yes,1,2017-12-15,No
+EMP1315,52,Female,Sales,Data Analyst,Bachelor's,Technical Degree,79189,4,8,No,3,2018-03-24,No
+EMP1316,42,Female,Finance,HR Specialist,Master's,Technical Degree,73511,2,5,No,4,2019-08-23,No
+EMP1317,43,Male,Finance,Sales Executive,Bachelor's,Finance,147115,3,18,No,4,2015-04-21,No
+EMP1318,22,Female,IT,IT Specialist,Bachelor's,Medical,33605,3,12,Yes,3,2020-12-24,No
+EMP1319,47,Male,Sales,Financial Analyst,Bachelor's,Human Resources,125318,1,2,Yes,2,2021-03-29,No
+EMP1320,22,Female,Research & Development,Data Analyst,Bachelor's,Technical Degree,157453,4,6,No,1,2023-04-28,No
+EMP1321,46,Male,Research & Development,Research Scientist,Master's,Medical,44810,3,8,Yes,2,2016-04-12,No
+EMP1322,37,Female,Research & Development,Financial Analyst,Bachelor's,Finance,66869,3,4,Yes,5,2022-08-11,No
+EMP1323,60,Female,Research & Development,HR Specialist,Master's,Life Sciences,57955,3,9,No,4,2021-12-03,No
+EMP1324,53,Male,Research & Development,Financial Analyst,Master's,Human Resources,86388,3,16,Yes,5,2023-08-06,No
+EMP1325,29,Female,Human Resources,HR Specialist,Master's,Marketing,35207,2,11,No,4,2017-03-24,No
+EMP1326,59,Male,Research & Development,HR Specialist,Master's,Technical Degree,47031,4,15,No,4,2018-06-26,No
+EMP1327,49,Male,Research & Development,HR Specialist,Bachelor's,Medical,105807,1,2,Yes,5,2017-09-20,No
+EMP1328,46,Male,Sales,IT Specialist,PhD,Life Sciences,96312,1,8,No,5,2020-07-24,No
+EMP1329,55,Male,Sales,HR Specialist,Bachelor's,Marketing,84766,2,14,No,2,2015-11-19,No
+EMP1330,45,Female,Sales,HR Specialist,Bachelor's,Medical,168521,4,4,No,5,2023-02-17,No
+EMP1331,44,Female,IT,Research Scientist,Master's,Medical,114833,3,12,No,2,2017-06-22,No
+EMP1332,33,Female,Sales,Sales Executive,PhD,Marketing,136041,2,13,Yes,2,2019-03-22,No
+EMP1333,27,Male,Sales,Manager,Master's,Life Sciences,141185,4,19,No,2,2020-06-22,No
+EMP1334,56,Female,Research & Development,Sales Executive,Bachelor's,Finance,35350,3,14,Yes,4,2019-12-21,No
+EMP1335,40,Male,Finance,HR Specialist,Bachelor's,Life Sciences,125859,2,15,No,4,2024-08-04,No
+EMP1336,21,Female,IT,Research Scientist,PhD,Human Resources,93487,4,12,No,5,2024-09-28,No
+EMP1337,28,Female,Finance,Financial Analyst,Bachelor's,Technical Degree,173694,1,16,No,4,2022-04-07,No
+EMP1338,36,Female,Human Resources,Research Scientist,Master's,Marketing,148853,1,7,No,5,2021-10-12,Yes
+EMP1339,34,Male,Research & Development,HR Specialist,Master's,Finance,78117,4,20,Yes,4,2024-02-23,No
+EMP1340,32,Female,Sales,Research Scientist,Bachelor's,Marketing,126084,1,1,Yes,1,2025-05-08,No
+EMP1341,43,Female,IT,Data Analyst,Bachelor's,Marketing,48782,4,4,No,1,2024-11-17,No
+EMP1342,35,Male,Human Resources,Research Scientist,Bachelor's,Life Sciences,53454,3,5,No,5,2015-05-28,No
+EMP1343,48,Female,Research & Development,HR Specialist,Bachelor's,Technical Degree,92904,4,11,No,4,2018-02-15,No
+EMP1344,54,Male,Human Resources,IT Specialist,PhD,Human Resources,154936,3,17,Yes,4,2017-04-29,No
+EMP1345,22,Female,Human Resources,Data Analyst,Bachelor's,Medical,171664,2,0,No,2,2016-01-02,No
+EMP1346,52,Male,Research & Development,Research Scientist,PhD,Medical,178245,4,16,Yes,3,2022-12-07,No
+EMP1347,43,Male,IT,Manager,Bachelor's,Marketing,147258,2,10,No,5,2017-12-25,No
+EMP1348,42,Female,IT,Manager,PhD,Technical Degree,136668,1,9,No,3,2020-07-31,No
+EMP1349,45,Male,Research & Development,Research Scientist,Bachelor's,Finance,149184,3,18,No,3,2022-10-31,No
+EMP1350,42,Male,Human Resources,IT Specialist,Bachelor's,Life Sciences,41566,4,13,Yes,5,2024-06-03,No
+EMP1351,42,Male,Sales,Financial Analyst,Bachelor's,Technical Degree,163262,2,9,No,4,2015-06-24,No
+EMP1352,26,Male,Human Resources,HR Specialist,Master's,Technical Degree,63333,3,14,No,5,2020-01-29,No
+EMP1353,35,Male,Sales,Manager,Master's,Life Sciences,146929,3,18,No,3,2016-08-10,No
+EMP1354,57,Male,Research & Development,Financial Analyst,Master's,Marketing,114571,1,3,No,4,2016-05-09,No
+EMP1355,53,Female,IT,Research Scientist,Bachelor's,Technical Degree,145263,1,1,No,1,2023-04-09,No
+EMP1356,28,Male,Research & Development,Financial Analyst,Bachelor's,Medical,157661,3,8,No,5,2018-02-11,No
+EMP1357,25,Male,Research & Development,Data Analyst,Master's,Life Sciences,50235,3,9,No,5,2023-09-18,No
+EMP1358,59,Female,Research & Development,Sales Executive,Bachelor's,Finance,25159,4,10,Yes,4,2019-11-20,No
+EMP1359,24,Female,Sales,Manager,Bachelor's,Human Resources,168217,3,13,No,1,2024-08-11,No
+EMP1360,26,Female,Human Resources,Research Scientist,PhD,Marketing,129859,4,6,No,1,2025-05-14,No
+EMP1361,52,Female,Sales,HR Specialist,PhD,Life Sciences,172309,3,14,Yes,4,2018-03-16,No
+EMP1362,50,Female,Sales,IT Specialist,PhD,Human Resources,132507,1,18,No,2,2015-02-04,No
+EMP1363,55,Female,Research & Development,Data Analyst,Master's,Human Resources,164316,4,14,No,5,2017-09-25,No
+EMP1364,60,Female,Finance,Research Scientist,Bachelor's,Finance,39743,2,7,No,5,2018-08-25,No
+EMP1365,36,Male,Human Resources,HR Specialist,Bachelor's,Technical Degree,71101,1,10,No,3,2022-01-29,No
+EMP1366,33,Male,Sales,IT Specialist,Master's,Finance,146534,4,8,No,4,2022-08-29,No
+EMP1367,50,Female,Research & Development,IT Specialist,Master's,Technical Degree,109227,4,14,No,3,2017-11-03,No
+EMP1368,39,Male,Research & Development,Research Scientist,Bachelor's,Technical Degree,96126,2,0,Yes,3,2016-01-09,No
+EMP1369,37,Male,Research & Development,Data Analyst,Bachelor's,Life Sciences,81071,4,0,No,1,2022-02-17,No
+EMP1370,39,Male,Human Resources,Financial Analyst,Bachelor's,Life Sciences,99763,3,18,Yes,5,2018-12-22,No
+EMP1371,48,Female,Research & Development,Financial Analyst,Master's,Marketing,168309,2,2,No,3,2019-10-18,No
+EMP1372,46,Female,Research & Development,IT Specialist,PhD,Technical Degree,171721,1,9,No,1,2021-03-30,No
+EMP1373,57,Male,Research & Development,Financial Analyst,Master's,Human Resources,71154,1,7,No,4,2016-12-05,No
+EMP1374,46,Female,IT,Sales Executive,Bachelor's,Medical,32016,3,14,Yes,3,2016-07-16,No
+EMP1375,43,Male,Research & Development,IT Specialist,PhD,Marketing,114678,1,9,No,5,2023-03-06,No
+EMP1376,29,Male,Research & Development,IT Specialist,Master's,Life Sciences,137056,4,0,No,3,2023-01-13,No
+EMP1377,32,Male,Research & Development,HR Specialist,Bachelor's,Finance,79238,4,17,Yes,4,2022-08-05,No
+EMP1378,21,Male,Research & Development,Financial Analyst,Bachelor's,Marketing,83608,3,1,Yes,3,2025-03-23,No
+EMP1379,21,Female,Finance,Data Analyst,Bachelor's,Marketing,114081,1,18,Yes,5,2024-08-12,Yes
+EMP1380,54,Female,Research & Development,IT Specialist,Bachelor's,Marketing,75961,1,12,No,1,2024-10-13,No
+EMP1381,52,Female,Human Resources,Data Analyst,PhD,Marketing,51917,3,0,Yes,5,2024-02-29,Yes
+EMP1382,45,Male,Human Resources,Sales Executive,Bachelor's,Medical,178808,2,1,No,1,2020-02-17,No
+EMP1383,60,Female,Research & Development,HR Specialist,PhD,Finance,52990,1,15,No,2,2020-10-24,No
+EMP1384,21,Male,Research & Development,Research Scientist,Bachelor's,Finance,87551,2,14,No,5,2016-03-14,No
+EMP1385,36,Female,IT,Data Analyst,Bachelor's,Finance,178512,1,12,Yes,5,2025-05-31,No
+EMP1386,59,Male,Research & Development,IT Specialist,Bachelor's,Technical Degree,105811,1,15,No,4,2020-02-27,Yes
+EMP1387,25,Male,Research & Development,Sales Executive,Bachelor's,Human Resources,80103,1,16,No,3,2020-06-02,No
+EMP1388,42,Male,IT,Manager,Bachelor's,Finance,131122,1,20,No,1,2016-11-29,No
+EMP1389,49,Female,Sales,Sales Executive,PhD,Marketing,44008,4,6,No,1,2018-08-05,No
+EMP1390,23,Female,Sales,Sales Executive,Master's,Marketing,57402,2,16,No,4,2023-02-10,No
+EMP1391,32,Female,Research & Development,HR Specialist,Master's,Finance,161865,2,6,No,4,2019-04-13,No
+EMP1392,46,Female,IT,Research Scientist,Bachelor's,Finance,161643,1,12,No,3,2023-01-17,No
+EMP1393,36,Male,Sales,Manager,Bachelor's,Marketing,172281,1,4,No,3,2016-11-22,No
+EMP1394,57,Female,Sales,Financial Analyst,Bachelor's,Technical Degree,138550,2,16,Yes,5,2021-04-19,No
+EMP1395,42,Female,Sales,Financial Analyst,Master's,Life Sciences,116218,4,2,Yes,2,2023-10-03,No
+EMP1396,49,Male,Sales,Data Analyst,Bachelor's,Life Sciences,158296,3,6,Yes,3,2018-04-15,No
+EMP1397,34,Male,Sales,Sales Executive,Bachelor's,Finance,145779,3,16,No,4,2023-07-06,No
+EMP1398,48,Male,Research & Development,HR Specialist,Master's,Medical,154714,2,6,No,3,2021-09-23,No
+EMP1399,25,Female,Research & Development,HR Specialist,Bachelor's,Finance,57441,1,20,No,1,2019-06-23,No
+EMP1400,50,Male,Sales,Financial Analyst,Bachelor's,Finance,87368,1,0,No,2,2019-06-22,No
+EMP1401,25,Male,Research & Development,Data Analyst,Bachelor's,Life Sciences,117122,4,16,No,5,2015-05-07,No
+EMP1402,32,Male,Sales,Data Analyst,PhD,Marketing,69760,3,16,No,1,2019-02-15,No
+EMP1403,36,Female,Research & Development,Data Analyst,Master's,Finance,48478,4,10,No,1,2018-04-06,No
+EMP1404,46,Male,Research & Development,Manager,Bachelor's,Marketing,152881,3,2,No,2,2022-03-24,Yes
+EMP1405,46,Female,Human Resources,Research Scientist,Bachelor's,Marketing,96854,2,14,Yes,5,2015-10-21,No
+EMP1406,41,Female,Sales,Manager,PhD,Medical,119230,3,20,Yes,4,2025-09-21,No
+EMP1407,59,Male,Research & Development,IT Specialist,Master's,Marketing,110716,4,10,Yes,5,2025-02-26,No
+EMP1408,56,Male,Sales,IT Specialist,Bachelor's,Life Sciences,168252,4,15,No,3,2018-09-28,No
+EMP1409,53,Female,Finance,Research Scientist,Master's,Technical Degree,123538,4,8,No,1,2017-10-16,No
+EMP1410,50,Male,Human Resources,Financial Analyst,Bachelor's,Technical Degree,40372,2,0,No,3,2021-06-15,No
+EMP1411,57,Male,Research & Development,Research Scientist,Master's,Human Resources,54796,3,15,Yes,4,2022-06-02,Yes
+EMP1412,43,Female,Sales,HR Specialist,Master's,Finance,123826,3,8,No,3,2022-01-19,Yes
+EMP1413,30,Female,IT,IT Specialist,Bachelor's,Life Sciences,145592,4,18,No,5,2022-01-31,No
+EMP1414,25,Male,Sales,Sales Executive,PhD,Marketing,118635,3,11,No,3,2016-02-23,No
+EMP1415,56,Female,Sales,Sales Executive,Master's,Technical Degree,136022,1,18,No,4,2016-03-19,No
+EMP1416,54,Male,Research & Development,Financial Analyst,Master's,Life Sciences,79040,1,8,No,4,2016-11-15,Yes
+EMP1417,51,Male,Sales,HR Specialist,Bachelor's,Technical Degree,100357,1,6,No,4,2024-12-08,No
+EMP1418,30,Male,IT,Manager,Bachelor's,Marketing,103356,3,13,No,5,2022-11-27,No
+EMP1419,39,Female,Finance,HR Specialist,Bachelor's,Technical Degree,41211,2,18,Yes,4,2021-04-02,No
+EMP1420,52,Male,Sales,Sales Executive,Master's,Finance,130426,2,18,Yes,1,2019-01-02,No
+EMP1421,21,Male,Research & Development,Sales Executive,Bachelor's,Finance,30842,2,1,No,4,2021-03-11,Yes
+EMP1422,25,Male,IT,IT Specialist,Master's,Human Resources,91852,2,8,No,3,2015-03-26,No
+EMP1423,24,Female,IT,HR Specialist,Master's,Human Resources,150737,1,12,No,3,2022-10-12,No
+EMP1424,36,Female,Research & Development,HR Specialist,Bachelor's,Technical Degree,70968,1,14,No,3,2019-11-03,No
+EMP1425,44,Female,IT,Sales Executive,Master's,Life Sciences,42508,4,2,No,5,2015-03-26,No
+EMP1426,36,Female,IT,Manager,Bachelor's,Finance,178077,3,10,No,3,2020-04-28,No
+EMP1427,22,Female,Human Resources,Financial Analyst,PhD,Life Sciences,79575,3,20,No,5,2024-09-30,No
+EMP1428,48,Male,Sales,Data Analyst,Bachelor's,Life Sciences,175043,2,13,No,5,2020-10-13,No
+EMP1429,52,Female,Research & Development,Financial Analyst,Bachelor's,Technical Degree,91914,1,7,No,4,2019-07-28,No
+EMP1430,47,Female,Finance,HR Specialist,Bachelor's,Life Sciences,92055,2,17,No,1,2016-10-24,No
+EMP1431,40,Female,Sales,Financial Analyst,Bachelor's,Finance,112697,4,18,No,4,2016-09-18,No
+EMP1432,44,Male,Finance,Sales Executive,Master's,Marketing,131239,3,15,No,4,2015-03-05,No
+EMP1433,32,Female,Sales,Sales Executive,Master's,Human Resources,148106,3,1,Yes,5,2024-05-07,No
+EMP1434,55,Female,Sales,HR Specialist,Master's,Marketing,30355,2,7,No,5,2023-03-06,No
+EMP1435,53,Male,Research & Development,HR Specialist,Bachelor's,Life Sciences,79120,4,5,No,3,2025-10-21,No
+EMP1436,53,Female,Sales,Data Analyst,Bachelor's,Marketing,63342,3,11,Yes,3,2017-07-07,No
+EMP1437,57,Male,IT,Data Analyst,Bachelor's,Finance,27257,4,14,No,4,2018-10-07,No
+EMP1438,32,Male,Finance,IT Specialist,Master's,Finance,52364,4,7,No,2,2018-03-27,No
+EMP1439,23,Male,Finance,HR Specialist,Master's,Life Sciences,136715,2,3,Yes,2,2019-06-01,No
+EMP1440,21,Male,Research & Development,Manager,Bachelor's,Technical Degree,51654,1,14,No,3,2016-05-05,No
+EMP1441,53,Male,Sales,Financial Analyst,Bachelor's,Marketing,106423,2,19,Yes,2,2025-03-18,Yes
+EMP1442,60,Female,Research & Development,HR Specialist,Master's,Technical Degree,54320,1,16,Yes,3,2020-02-22,No
+EMP1443,30,Male,Research & Development,Research Scientist,Master's,Technical Degree,45808,4,12,No,5,2024-09-04,No
+EMP1444,49,Male,Research & Development,IT Specialist,Master's,Medical,77389,1,17,No,4,2024-01-10,Yes
+EMP1445,33,Female,Sales,Research Scientist,PhD,Life Sciences,143581,4,1,Yes,1,2020-04-24,Yes
+EMP1446,32,Male,Research & Development,Sales Executive,Bachelor's,Human Resources,152927,3,12,No,4,2015-11-09,No
+EMP1447,51,Female,Research & Development,Data Analyst,Bachelor's,Finance,59773,3,12,No,3,2022-04-16,No
+EMP1448,22,Female,IT,Financial Analyst,Master's,Finance,101396,3,14,Yes,3,2017-07-07,No
+EMP1449,55,Female,IT,HR Specialist,Master's,Life Sciences,132692,2,19,Yes,4,2020-02-26,No
+EMP1450,43,Male,Research & Development,Research Scientist,Bachelor's,Human Resources,82505,2,9,No,3,2017-03-23,No
+EMP1451,37,Male,Research & Development,Financial Analyst,Master's,Finance,110896,4,2,No,2,2023-03-07,No
+EMP1452,46,Male,Human Resources,Sales Executive,Master's,Life Sciences,43135,3,18,No,2,2019-01-29,No
+EMP1453,28,Female,Sales,Data Analyst,Master's,Finance,115887,2,2,No,3,2023-08-26,No
+EMP1454,49,Male,IT,Manager,Master's,Technical Degree,147118,3,13,No,3,2025-10-29,No
+EMP1455,46,Male,Finance,IT Specialist,Bachelor's,Marketing,72377,2,7,Yes,2,2018-08-19,No
+EMP1456,30,Male,Research & Development,Financial Analyst,Master's,Marketing,179626,1,3,No,3,2016-11-10,Yes
+EMP1457,46,Female,Research & Development,Financial Analyst,Master's,Finance,87491,1,19,No,3,2016-03-10,No
+EMP1458,54,Female,Sales,Manager,Master's,Medical,83283,3,10,No,4,2016-11-12,No
+EMP1459,27,Male,Research & Development,Financial Analyst,Master's,Human Resources,41923,4,10,Yes,1,2018-03-04,No
+EMP1460,24,Male,Sales,Sales Executive,Master's,Human Resources,72591,2,10,Yes,2,2017-12-09,No
+EMP1461,31,Male,Finance,Sales Executive,Bachelor's,Human Resources,87261,2,1,No,4,2018-12-26,No
+EMP1462,49,Male,Sales,Manager,Master's,Technical Degree,79336,1,16,No,1,2021-07-15,No
+EMP1463,56,Female,Research & Development,IT Specialist,Master's,Human Resources,99083,1,8,Yes,3,2021-07-22,No
+EMP1464,45,Female,IT,HR Specialist,Master's,Marketing,85948,4,1,No,3,2022-05-17,No
+EMP1465,41,Female,Human Resources,Research Scientist,Master's,Technical Degree,51672,4,14,Yes,4,2018-10-02,No
+EMP1466,56,Female,Sales,HR Specialist,Master's,Life Sciences,29213,4,15,No,3,2016-10-10,No
+EMP1467,30,Male,Sales,Financial Analyst,Bachelor's,Human Resources,166365,3,3,No,5,2015-09-02,No
+EMP1468,57,Male,Sales,Research Scientist,Master's,Human Resources,87507,1,7,No,4,2020-11-26,No
+EMP1469,29,Male,Human Resources,Manager,Bachelor's,Life Sciences,82134,3,8,No,1,2025-09-01,No
+EMP1470,44,Female,Sales,Manager,Bachelor's,Human Resources,158172,1,4,No,4,2025-08-06,No
+EMP1471,55,Male,Research & Development,IT Specialist,Master's,Life Sciences,53172,1,15,No,2,2022-01-24,Yes
+EMP1472,55,Female,IT,Research Scientist,Master's,Technical Degree,45132,2,12,No,4,2023-08-28,Yes
+EMP1473,56,Female,Sales,Sales Executive,Bachelor's,Marketing,43199,1,6,No,3,2015-10-23,No
+EMP1474,38,Male,IT,Research Scientist,Bachelor's,Life Sciences,61609,1,19,No,3,2020-11-29,No
+EMP1475,59,Male,IT,Financial Analyst,Master's,Medical,164088,3,16,Yes,5,2025-08-20,No
+EMP1476,52,Male,Sales,Sales Executive,Bachelor's,Life Sciences,56881,1,2,Yes,5,2019-06-01,Yes
+EMP1477,44,Female,IT,Data Analyst,Bachelor's,Human Resources,49472,3,4,No,5,2023-11-23,No
+EMP1478,43,Male,Research & Development,Data Analyst,Bachelor's,Technical Degree,79131,4,18,No,1,2021-07-18,No
+EMP1479,52,Female,IT,Data Analyst,Bachelor's,Finance,37828,1,11,No,5,2025-03-20,No
+EMP1480,57,Male,Research & Development,Manager,Bachelor's,Technical Degree,121664,1,6,Yes,1,2020-11-18,No
+EMP1481,32,Female,Human Resources,Research Scientist,Bachelor's,Finance,157473,3,8,No,5,2025-06-26,No
+EMP1482,33,Female,Research & Development,Data Analyst,Bachelor's,Life Sciences,40193,4,5,No,1,2022-04-30,No
+EMP1483,43,Male,Finance,HR Specialist,Master's,Marketing,176379,2,16,No,4,2019-06-16,No
+EMP1484,45,Female,Human Resources,IT Specialist,Master's,Medical,127518,4,15,No,4,2024-07-04,No
+EMP1485,55,Female,Research & Development,HR Specialist,Master's,Technical Degree,44611,3,2,No,3,2015-01-28,No
+EMP1486,50,Male,Finance,Data Analyst,Bachelor's,Human Resources,168022,4,20,No,1,2023-03-04,No
+EMP1487,37,Female,Sales,IT Specialist,Bachelor's,Finance,101240,3,3,No,2,2020-06-08,No
+EMP1488,40,Male,Sales,Financial Analyst,Master's,Human Resources,27745,3,9,Yes,3,2019-04-10,No
+EMP1489,45,Female,Sales,HR Specialist,Bachelor's,Marketing,80243,2,4,No,4,2015-02-27,No
+EMP1490,42,Male,Research & Development,Research Scientist,Bachelor's,Finance,28866,1,20,No,1,2019-03-02,No
+EMP1491,33,Male,Sales,Research Scientist,Master's,Technical Degree,153681,3,9,No,5,2015-10-24,No
+EMP1492,39,Female,IT,HR Specialist,Master's,Life Sciences,96354,3,11,Yes,2,2020-12-21,No
+EMP1493,56,Female,Sales,Data Analyst,Bachelor's,Human Resources,76374,2,9,No,4,2024-04-25,No
+EMP1494,32,Female,Human Resources,Research Scientist,Bachelor's,Marketing,139397,3,12,No,3,2021-04-15,No
+EMP1495,39,Female,Sales,Financial Analyst,Master's,Technical Degree,149577,1,10,Yes,1,2023-05-27,No
+EMP1496,32,Female,IT,Sales Executive,Bachelor's,Technical Degree,106029,2,15,No,2,2022-02-10,No
+EMP1497,29,Male,IT,Data Analyst,Master's,Technical Degree,118574,1,7,No,1,2017-06-20,No
+EMP1498,27,Female,Research & Development,Financial Analyst,Master's,Technical Degree,176519,1,7,No,5,2020-05-18,Yes
+EMP1499,48,Male,IT,IT Specialist,PhD,Finance,55431,2,7,No,3,2018-01-03,No
+EMP1500,34,Male,Sales,Financial Analyst,Bachelor's,Technical Degree,173980,3,12,Yes,1,2019-08-05,No
